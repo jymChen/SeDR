@@ -1,6 +1,0 @@
-trec_eval.*/
-*.obj
-*.tar
-.DS_Store
-test.long
-trec_eval
