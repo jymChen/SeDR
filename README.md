@@ -1,7 +1,7 @@
 
 ## SeDR: Segment Representation Learning for Long Documents Dense Retrieval
 
-This repository contains all source code for the paper  "SeDR: Segment Representation Learning for Long Documents Dense Retrieval".
+This repository contains all source code for the paper  ["SeDR: Segment Representation Learning for Long Documents Dense Retrieval"](https://arxiv.org/abs/2211.10841) .
 
 ## Requirements
 
